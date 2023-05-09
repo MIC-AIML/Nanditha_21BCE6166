@@ -1,5 +1,7 @@
 # Nanditha_21BCE6166
 Fashion-mnist clothing classification
+
+
 Overview:
 Fashion-MNIST dataset is a collection of photos from fashion-related articles. It can be used for learning and applying deep convolutional neural network development, evaluation, and application for image classification.
 This code proposes a deep learning model using the tensorflow framework to handle the problem. We create a classification model.
